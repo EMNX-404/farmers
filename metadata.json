@@ -1,0 +1,8 @@
+{
+  "name": "MarketLink Backend",
+  "description": "Complete REST API backend for MarketLink farmers-market platform with MongoDB, Mongoose, JWT auth, pre-orders, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
